@@ -1,0 +1,243 @@
+10
+2940012923001
+Nguyen Bao Nam
+21/01/1986
+Nam
+Viem nao
+01/10/2017
+08/05/2018
+Khoa noi than kinh
+12
+2940012923002
+Nguyen Bao Trung
+01/06/1995
+Nam
+Ung thu phoi
+02/11/2020
+03/01/2021
+Khoa noi
+02
+2940012923003
+Tran Thu Linh
+23/08/2000
+Nu
+Viem gan
+04/06/2020
+05/07/2020
+Viem gan
+10
+2940012923004
+Nguyen Hong Van
+06/09/1994
+Nu
+Suy than
+09/10/2016
+11/12/2016
+Noi than
+30
+2940012923005
+Tran Hoang Son
+11/02/1990
+Nam
+Ung thu vom hong
+02/07/2015
+10/08/2016
+Noi
+15
+2940012923006
+Nguyen Thu Linh
+09/11/2001
+Nu
+Suy tim
+10/08/2015
+20/11/2015
+Tim mach
+11
+2940012923007
+Tran Hoang Bao Huy 
+01/04/1977
+Nam
+Gay xuong
+08/10/2010
+09/11/2010
+Noi
+31
+2940012923008
+Ho Ha Linh
+04/10/1970
+Nu
+Ung thu co tu cung
+09/11/2019
+10/12/2019
+San khoa
+13
+2940012923009
+Le Tra Giang
+03/07/1993
+Nu
+Soi than
+10/01/2020
+08/03/2020
+Khoa than
+20
+2940012923010
+Tran Nam Hoang 
+11/09/2000
+Nam
+Ung thu xuong
+01/07/2020
+03/20/2020
+Y ta chuyen khoa ung thu
+15
+10
+2940012923011
+Nguyen Thanh Trung
+02/06/1976
+Nam
+Viem nao mo cau BC
+02/06/2020
+GD 429012078814
+B09-0049371
+2940012923012
+Nguyen Lan Anh 
+03/10/2000
+Nu
+Lao phoi
+12/10/2022
+GD 429013789457
+C10-1247590
+2940012923013
+Le Thi Hong Hanh
+04/12/1998
+Nu
+Rach giac mac
+08/08/2000
+GD 4290142810673
+A05-2349079
+2940012923014
+Tran My Linh
+12/07/2000
+Nu
+Soi than
+02/07/2020
+GD 42901068920134
+A06-9810469
+2940012923015
+Le Thu Trang
+07/11/1975
+Nu
+Suy than cap
+02/07/2020
+GD 42901579010814
+C01-0864571
+2940012923016
+Hoang Gia Linh
+06/02/1998
+Nu
+Thieu mau
+10/11/2020
+GD 4290167910356
+A02-4014579
+2940012923017
+Ho Huy Nam
+07/05/2000
+Nam
+Tri noi
+01/07/2019
+GD 4290171031234
+C01-5241068
+2940012923018
+Nguyen Tu Anh
+03/06/1977
+Nu
+Ung thu phoi
+07/05/2018
+GD 4290117410673
+D02-4270168
+2940012923019
+Le Dieu Linh
+06/10/1968
+Nu
+U xo tu cung
+10/12/2008
+GD 4290127812423
+A09-4825017
+2940012923020
+Nguyen Tuan Anh
+12/11/1979
+Nam
+Viem loet da day
+11/02/2015
+GD 4290161039124
+B08-4850614
+10
+2940012923021
+Pham Thi Quynh Anh
+14/03/1945
+Nu
+Viem gan B
+14/03/2023
+Benh vien da khoa 115 Nghe An
+2940012923022
+Dao Huy Quoc
+23/12/1972
+Nam
+Xo gan giai doan 3
+26/06/2022
+Benh vien noi tiet trung uong Ha Noi
+2940012923023
+Pham Xuan Viet
+27/11/1943
+Nam
+Viem giac mac ke
+17/11/2022
+Benh vien da khoa Dong Da
+2940012923024
+Tran Thi Yen
+08/10/1964
+Nu
+Dai thao duong
+23/02/2023
+Benh vien da khoa 115 Nghe An
+2940012923025
+Le Minh Hong
+23/09/1946
+Nam
+Thoai hoa khop
+12/12/2022
+Benh vien Da khoa 115 Nghe An
+2940012923026
+Cao Huu Thien
+20/06/1943
+Nam
+Cao huyet ap
+20/04/2023
+Benh vien huu nghi Viet Nam
+2940012923027
+Pham Huy Loi
+19/07/1972
+Nam
+Thoai hoa khop
+17/10/2022
+Benh vien tinh Ha Tinh
+2940012923028
+Pham Minh Thu
+18/07/2012
+Nu
+Viem phe quan
+29/03/2023
+Benh vien nhi tinh Nghe An
+2940012923029
+Nguyen Tra Mi
+03/03/2000
+Nu
+Liet day than kinh so 7
+14/06/2023
+Benh vien da khoa Nghe An
+2940012923030
+Luu Quang Vu
+25/01/1963
+Nam
+Viem thanh quan
+21/12/2022
+Benh vien tinh Ha Tinh
